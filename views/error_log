@@ -1,0 +1,95 @@
+[12-Mar-2018 10:33:50 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 107
+[12-Mar-2018 10:33:50 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 112
+[13-Mar-2018 04:07:19 America/New_York] PHP Notice:  Undefined variable: image_src in /home/evenhifl/facman.evenket.com/views/dashboard.php on line 97
+[13-Mar-2018 04:07:44 America/New_York] PHP Notice:  Undefined variable: image_src in /home/evenhifl/facman.evenket.com/views/dashboard.php on line 98
+[13-Mar-2018 04:08:36 America/New_York] PHP Notice:  Undefined variable: image_src in /home/evenhifl/facman.evenket.com/views/dashboard.php on line 98
+[13-Mar-2018 04:08:46 America/New_York] PHP Notice:  Undefined variable: image_src in /home/evenhifl/facman.evenket.com/views/dashboard.php on line 98
+[13-Mar-2018 04:11:07 America/New_York] PHP Notice:  Undefined variable: image_src in /home/evenhifl/facman.evenket.com/views/dashboard.php on line 98
+[13-Mar-2018 04:25:54 America/New_York] PHP Notice:  Undefined variable: company_id in /home/evenhifl/facman.evenket.com/includes/functions.php on line 448
+[16-Mar-2018 08:52:41 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[16-Mar-2018 08:52:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[16-Mar-2018 08:52:41 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 122
+[16-Mar-2018 08:52:41 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 127
+[16-Mar-2018 08:55:17 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[16-Mar-2018 08:55:17 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[16-Mar-2018 08:55:17 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 122
+[16-Mar-2018 08:55:17 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 127
+[16-Mar-2018 08:56:53 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[16-Mar-2018 08:56:53 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[16-Mar-2018 08:56:53 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 122
+[16-Mar-2018 08:56:53 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 127
+[16-Mar-2018 09:05:26 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[16-Mar-2018 09:05:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[16-Mar-2018 09:05:26 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 122
+[16-Mar-2018 09:05:26 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 127
+[18-Mar-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[18-Mar-2018 16:04:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[18-Mar-2018 16:04:08 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[18-Mar-2018 16:04:08 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[19-Mar-2018 08:11:32 America/New_York] PHP Notice:  Undefined variable: facilitator in /home/evenhifl/facman.evenket.com/includes/functions.php on line 100
+[19-Mar-2018 08:11:32 America/New_York] PHP Notice:  Undefined variable: company_id in /home/evenhifl/facman.evenket.com/includes/functions.php on line 100
+[19-Mar-2018 08:11:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/includes/functions.php on line 113
+[19-Mar-2018 08:11:32 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[19-Mar-2018 08:11:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[19-Mar-2018 08:11:32 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[19-Mar-2018 08:11:32 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[19-Mar-2018 08:17:04 America/New_York] PHP Parse error:  syntax error, unexpected '@', expecting ',' or ')' in /home/evenhifl/facman.evenket.com/includes/functions.php on line 137
+[19-Mar-2018 08:17:13 America/New_York] PHP Parse error:  syntax error, unexpected '@', expecting ',' or ')' in /home/evenhifl/facman.evenket.com/includes/functions.php on line 137
+[19-Mar-2018 08:17:18 America/New_York] PHP Parse error:  syntax error, unexpected '@', expecting ',' or ')' in /home/evenhifl/facman.evenket.com/includes/functions.php on line 137
+[19-Mar-2018 09:10:16 America/New_York] PHP Notice:  Undefined variable: facilitator in /home/evenhifl/facman.evenket.com/includes/functions.php on line 100
+[19-Mar-2018 09:10:16 America/New_York] PHP Notice:  Undefined variable: company_id in /home/evenhifl/facman.evenket.com/includes/functions.php on line 100
+[19-Mar-2018 09:10:16 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/includes/functions.php on line 113
+[19-Mar-2018 09:10:16 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[19-Mar-2018 09:10:16 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[19-Mar-2018 09:10:16 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[19-Mar-2018 09:10:16 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[19-Mar-2018 09:10:52 America/New_York] PHP Notice:  Undefined variable: facilitator in /home/evenhifl/facman.evenket.com/includes/functions.php on line 100
+[19-Mar-2018 09:10:52 America/New_York] PHP Notice:  Undefined variable: company_id in /home/evenhifl/facman.evenket.com/includes/functions.php on line 100
+[19-Mar-2018 09:10:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/includes/functions.php on line 113
+[19-Mar-2018 09:10:52 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[19-Mar-2018 09:10:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[19-Mar-2018 09:10:52 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[19-Mar-2018 09:10:52 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[19-Mar-2018 09:11:20 America/New_York] PHP Notice:  Undefined variable: facilitator in /home/evenhifl/facman.evenket.com/includes/functions.php on line 100
+[19-Mar-2018 09:11:20 America/New_York] PHP Notice:  Undefined variable: company_id in /home/evenhifl/facman.evenket.com/includes/functions.php on line 100
+[19-Mar-2018 09:11:20 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/includes/functions.php on line 113
+[19-Mar-2018 09:11:20 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[19-Mar-2018 09:11:20 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[19-Mar-2018 09:11:20 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[19-Mar-2018 09:11:20 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[21-Mar-2018 15:51:13 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[21-Mar-2018 15:51:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[21-Mar-2018 15:51:13 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[21-Mar-2018 15:51:13 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[21-Mar-2018 15:54:56 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[21-Mar-2018 15:54:56 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[21-Mar-2018 15:54:56 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[21-Mar-2018 15:54:56 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[21-Mar-2018 16:03:05 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[21-Mar-2018 16:03:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[21-Mar-2018 16:03:05 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[21-Mar-2018 16:03:05 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[21-Mar-2018 16:03:54 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[21-Mar-2018 16:03:54 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[21-Mar-2018 16:03:54 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[21-Mar-2018 16:03:54 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[21-Mar-2018 16:05:29 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[21-Mar-2018 16:05:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[21-Mar-2018 16:05:29 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[21-Mar-2018 16:05:29 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[21-Mar-2018 16:08:45 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[21-Mar-2018 16:08:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[21-Mar-2018 16:08:45 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[21-Mar-2018 16:08:45 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[21-Mar-2018 16:55:02 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[21-Mar-2018 16:55:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[21-Mar-2018 16:55:02 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[21-Mar-2018 16:55:02 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[27-Mar-2018 09:34:28 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[27-Mar-2018 09:34:28 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[27-Mar-2018 09:34:28 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[27-Mar-2018 09:34:28 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
+[06-Apr-2018 14:20:51 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 100
+[06-Apr-2018 14:20:51 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 104
+[06-Apr-2018 14:20:51 America/New_York] PHP Notice:  Undefined index: id in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 123
+[06-Apr-2018 14:20:51 America/New_York] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/evenhifl/facman.evenket.com/views/viewfunds.php on line 128
